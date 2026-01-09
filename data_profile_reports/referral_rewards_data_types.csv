@@ -1,0 +1,5 @@
+,0
+id,int64
+reward_value,object
+created_at,object
+reward_type,int64

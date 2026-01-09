@@ -1,0 +1,9 @@
+,0
+id,int64
+user_id,object
+name,object
+phone_number,object
+homeclub,object
+timezone_homeclub,object
+membership_expired_date,object
+is_deleted,bool

@@ -1,0 +1,7 @@
+,0
+transaction_id,object
+transaction_status,object
+transaction_at,object
+transaction_location,object
+timezone_transaction,object
+transaction_type,object

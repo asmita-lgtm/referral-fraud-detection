@@ -1,0 +1,14 @@
+,0
+referral_details_id,int64
+referral_id,object
+referral_source,object
+referral_source_category,object
+referral_at,object
+referrer_id,object
+referrer_name,object
+referrer_phone_number,object
+referrer_homeclub,object
+referee_id,object
+referee_name,object
+referee_phone,object
+is_business_logic_valid,bool

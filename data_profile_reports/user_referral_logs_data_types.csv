@@ -1,0 +1,6 @@
+,0
+id,int64
+user_referral_id,object
+source_transaction_id,object
+created_at,object
+is_reward_granted,bool

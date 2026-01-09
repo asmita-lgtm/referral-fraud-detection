@@ -1,0 +1,6 @@
+,0
+referral_id,int64
+referrer_id,int64
+referee_name,object
+referral_source,object
+referral_at,object
